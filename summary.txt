@@ -1,0 +1,2 @@
+transitions	transversions
+206468	206468
