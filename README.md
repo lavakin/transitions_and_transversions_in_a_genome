@@ -8,7 +8,7 @@ gzip -d <file name>
   ```shell
 apt-get install rs
 ```
-(or other package manager by linux distribution)
+(or other package manager depending on the linux distribution)
 
 3. Make scripts executable 
   ```shell
