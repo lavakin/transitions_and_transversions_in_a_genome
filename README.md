@@ -10,10 +10,19 @@ apt-get install rs
 ```
 (or other package manager by linux distribution)
 
-## Get results
-To get the ratios, you need to run the file   ```nucleotides_ratio.sh``` 
+3. Make files executable 
+  ```shell
+chmod -R +x *.sh *.R
+```
 
-## By nucleotides 
+## Get results
+
+To get the ratios, you need to run the script   ```nucleotides_ratio.sh``` with your data file as an commandline argument
+For plotting, you need to run the script ```plotting.sh``` 
+
+## Results
+
+### By nucleotides 
 
 <p float="left">
   <img src="https://github.com/lavakin/transitions_and_transversions_in_a_genome/blob/main/charts/transition_nucl.png" alt="transitions" width="400"/>
@@ -21,7 +30,7 @@ To get the ratios, you need to run the file   ```nucleotides_ratio.sh```
 </p>
 
 
-## Ration for each of the nucleotides
+### Ration for each of the nucleotides
 
 
 <p float="left">
