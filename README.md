@@ -1,16 +1,20 @@
 # transitions and transversions in a genome
 ## Setup
-1. Unpack the data file
+1. Clone this repository
+  ```shell
+git clone github.com/lavakin/transitions_and_transversions_in_a_genome
+```
+2. Unpack the data file
   ```shell
 gzip -d <file name>
 ```
-2. Install rs if not already installed (on Mac OS by default)
+3. Install rs if not already installed (on Mac OS by default)
   ```shell
 apt-get install rs
 ```
 (or other package manager depending on the linux distribution)
 
-3. Make scripts executable 
+4. Make scripts executable 
   ```shell
 chmod -R +x *.sh *.R
 ```
