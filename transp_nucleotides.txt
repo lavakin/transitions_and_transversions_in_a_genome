@@ -1,3 +1,0 @@
-nucleotide	A	G	C	T	
-transitions	54261	50969	50124	51114	
-transversions	35179	29042	29790	37933	
