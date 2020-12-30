@@ -12,7 +12,7 @@ make_plot <- function(indexes,vals, texxt, file_name) {
   x = c('~/Documents/school/unix2/charts/', file_name, '.png')
   name = paste(x, collapse = "")
   print(name)
-  ggsave(name, pie, device = "png")
+  ggsave(name, pie, device = "png",width = 8, height = 8)
   
 }
 
