@@ -11,7 +11,7 @@ apt-get install rs
 (or other package manager by linux distribution)
 
 ## Get results
-To get the ratios, you need to run the file   ```shell nucleotides_ratio.sh``` 
+To get the ratios, you need to run the file   ```nucleotides_ratio.sh``` 
 
 ## By nucleotides 
 
