@@ -10,7 +10,7 @@ apt-get install rs
 ```
 (or other package manager by linux distribution)
 
-3. Make files executable 
+3. Make scripts executable 
   ```shell
 chmod -R +x *.sh *.R
 ```
