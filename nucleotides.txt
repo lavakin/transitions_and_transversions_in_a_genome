@@ -1,5 +1,0 @@
-nucleotide	transitions	transversions
-A	54261	35179
-G	50969	29042
-C	50124	29790
-T	51114	37933
