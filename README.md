@@ -1,5 +1,7 @@
 # transitions_and_transversions_in_a_genome
-## By nucleotides ##
+## Setup
+
+## By nucleotides 
 
 <p float="left">
   <img src="https://github.com/lavakin/transitions_and_transversions_in_a_genome/blob/main/charts/transition_nucl.png" alt="transitions" width="400"/>
