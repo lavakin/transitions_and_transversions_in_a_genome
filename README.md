@@ -1,5 +1,9 @@
 # transitions_and_transversions_in_a_genome
 ## Setup
+1. Unpack the data file
+  ```shell
+gzip -d <file name>
+```
 
 ## By nucleotides 
 
@@ -9,7 +13,7 @@
 </p>
 
 
-## Ration for each of the nucleotides ##
+## Ration for each of the nucleotides
 
 
 <p float="left">
