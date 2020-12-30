@@ -1,0 +1,2 @@
+transitions	206468
+transversions	131944
