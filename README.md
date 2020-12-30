@@ -17,7 +17,8 @@ chmod -R +x *.sh *.R
 
 ## Get results
 
-To get the ratios, you need to run the script   ```nucleotides_ratio.sh``` with your data file as an commandline argument
+To get the ratios, you need to run the script   ```nucleotides_ratio.sh``` with your data file as an commandline argument.
+
 For plotting, you need to run the script ```plotting.sh``` 
 
 ## Results
