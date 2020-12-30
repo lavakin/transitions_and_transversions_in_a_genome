@@ -4,6 +4,12 @@
   ```shell
 gzip -d <file name>
 ```
+2. Install rs in not already installed (on Mac OS by default)
+  ```shell
+apt-get install rs
+```
+(or other package manager by linux distribution)
+
 
 ## By nucleotides 
 
