@@ -9,10 +9,10 @@ make_plot <- function(indexes,vals, texxt, file_name) {
                                       axis.ticks = element_blank(),
                                       plot.title = element_text(hjust = 0.5, color = "#666666"))
   pie
-  x = c('~/Documents/school/unix2/charts/', file_name, '.tiff')
+  x = c('~/Documents/school/unix2/charts/', file_name, '.png')
   name = paste(x, collapse = "")
   print(name)
-  ggsave(name, pie)
+  ggsave(name, pie, device = "png")
   
 }
 
