@@ -4,12 +4,14 @@
   ```shell
 gzip -d <file name>
 ```
-2. Install rs in not already installed (on Mac OS by default)
+2. Install rs if not already installed (on Mac OS by default)
   ```shell
 apt-get install rs
 ```
 (or other package manager by linux distribution)
 
+## Get results
+To get the ratios, you need to run the file   ```shell nucleotides_ratio.sh``` 
 
 ## By nucleotides 
 
