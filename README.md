@@ -1,4 +1,4 @@
-# transitions_and_transversions_in_a_genome
+# transitions and transversions in a genome
 ## Setup
 1. Unpack the data file
   ```shell
