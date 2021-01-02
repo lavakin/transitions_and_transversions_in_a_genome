@@ -8,9 +8,9 @@ git clone github.com/lavakin/transitions_and_transversions_in_a_genome
   ```shell
 gzip -d <file name>
 ```
-3. Install rs if not already installed (on Mac OS by default)
+3. Install rs and bc if not already installed (on Mac OS by default)
   ```shell
-apt-get install rs
+apt-get install rs bc
 ```
 (or other package manager depending on the linux distribution)
 
